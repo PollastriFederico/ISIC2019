@@ -1,0 +1,14 @@
+# Python 3.6.8
+https://download.pytorch.org/whl/cu100/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cu100/torchvision-0.3.0-cp36-cp36m-linux_x86_64.whl
+six
+numpy>=1.15
+scipy
+Pillow
+matplotlib
+scikit-image
+opencv-python
+imageio
+Shapely
+imgaug
+pytorchcv
